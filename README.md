@@ -48,3 +48,5 @@ My key takeaways from this analysis were these:
 - IMDb Scores tend to be higher than metacritic scores, so don’t be put off by a slightly lower rating on metacritic.
 - metacritic tend to favour older movies particularly those from the 1970s so if thats your thing, metacritic might be your best bet for movie recommendations.
 - There are differences in terms of how different genres perform on the two platforms but that is going to need some more investigation as there are so many genres out there.
+
+The medium article I wrote accompanying this directory can be found here: https://medium.com/@jacobveerapen/imdb-vs-metacritic-fe9b23c41fb5
